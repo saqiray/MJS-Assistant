@@ -1,5 +1,6 @@
-**MJS Assistant**
- is a free, local AI assistant for **Termux, Android and Kali Linux**.
+# MJS Assistant 🤖
+
+**MJS Assistant** is a free, local AI assistant for **Termux, Android and Kali Linux**.
 
 It uses `llama.cpp` and GGUF models to run AI locally on your device, without requiring a cloud AI API.
 
